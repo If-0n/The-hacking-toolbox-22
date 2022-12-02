@@ -1,5 +1,5 @@
 # The-hacking-toolbox-22
-This is a new python gui app ive made it does not have much going for it right now but will be really advanced soon enough!
+This project is canceled because im not in cyber sucurity as much as I was.
 
 
 Note: Sorry for never getting to updating this ive been working on other projects
