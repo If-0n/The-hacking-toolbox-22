@@ -6,7 +6,7 @@ Note: Sorry for never getting to updating this ive been working on other project
 
 Also this barely works haha its just a gui
 
-# Donating to klox's projects
+# Donating to if0n's projects
 
 * Tether (Solana) *8bsYncMLMZXdfVg4cK3SW5SW5btzpxoUonDkNXMccjLS*
 
